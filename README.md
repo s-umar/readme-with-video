@@ -9,5 +9,5 @@ https://github.com/s-umar/readme-with-video/assets/30120872/0d882307-2f20-4ce3-8
 https://user-images.githubusercontent.com/30120872/237971168-0d882307-2f20-4ce3-836c-2b7e76ea734a.mp4
 
 
-<video width="100%" src="https://github.com/s-umar/readme-with-video/assets/30120872/0d882307-2f20-4ce3-836c-2b7e76ea734a" controls="controls"></video>
+<video width="100%" src="https://github.com/s-umar/readme-with-video/assets/30120872/0d882307-2f20-4ce3-836c-2b7e76ea734a" controls="controls" autoplay="autoplay" loop="loop"></video>
 
